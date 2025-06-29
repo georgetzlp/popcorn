@@ -1,5 +1,8 @@
 # Popcorn
-A Kernel package for injecting themes into your client
+Popcorn is a(n):
+- ✅ Browser extension
+- ✅ Electron client modification
+- ❓ Overcomplicated solution to a simple problem
 
 > [!IMPORTANT]
-> nothing works yet:tm:
+> This project is still a work in progress
